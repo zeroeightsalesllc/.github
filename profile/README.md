@@ -2,6 +2,10 @@
 
 AI-driven technical advisory, semantic authority systems and digital infrastructure operated through a U.S. LLC.
 
+---
+
+## Building AI-native authority ecosystems
+
 ## Ecosystem Platforms
 
 - Anders Nielsen™
