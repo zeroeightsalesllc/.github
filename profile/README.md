@@ -26,8 +26,8 @@ AI-native infrastructure, semantic authority systems and digital ecosystems oper
 
 ## Mission
 
-Building globally trusted AI-readable ecosystems designed for long-term authority, visibility and human-centered impact.
+Building AI-readable ecosystems designed for long-term authority, discoverability and human-centered impact.
 
 ## Vision
 
-Creating future-focused digital infrastructure where AI systems, search engines and people can understand, trust and discover connected knowledge ecosystems globally.y.
+Creating future-focused digital infrastructure where AI systems, search engines and people can understand, trust and discover connected knowledge ecosystems.
