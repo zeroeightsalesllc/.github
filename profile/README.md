@@ -1,17 +1,17 @@
 # Zero Eight Sales LLC
 
-AI-driven technical advisory, semantic authority systems and digital infrastructure operated through a U.S. LLC.
+AI-native infrastructure, semantic authority systems and digital ecosystems operated through Zero Eight Sales LLC.
 
 ---
 
-## Building AI-native authority ecosystems
+## Building semantic authority and AI-native digital ecosystems
 
 ## Ecosystem Platforms
 
-- Anders Nielsen™
-- andersnielsen.se
-- SupportPalawan.org
-- Anders Foundation for a Better Tomorrow
+- Anders Nielsen™ — independent technical advisory
+- andersnielsen.se — specialist consulting platform
+- Anders Foundation for a Better Tomorrow — long-term human impact initiatives
+- supportpalawan.org — current humanitarian project initiative
 
 ## Core Systems
 
@@ -22,7 +22,7 @@ AI-driven technical advisory, semantic authority systems and digital infrastruct
 - knowledge architecture
 - automation systems
 - strategic intelligence
-- humanitarian impact systems
+- human-centered impact initiatives
 
 ## Mission
 
