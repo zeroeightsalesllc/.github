@@ -8,10 +8,11 @@ AI-native infrastructure, semantic authority systems and digital ecosystems oper
 
 ## Ecosystem Platforms
 
-- Anders Nielsen™ — independent technical advisory
+- Anders Nielsen — independent technical advisory
 - andersnielsen.se — specialist consulting platform
+- Zero Eight System — digital systems and infrastructure
 - Anders Foundation for a Better Tomorrow — long-term human impact initiatives
-- supportpalawan.org — current humanitarian project initiative
+- supportpalawan.org — humanitarian implementation initiative
 
 ## Core Systems
 
