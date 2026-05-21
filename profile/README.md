@@ -2,6 +2,8 @@
 
 AI-native infrastructure, semantic authority systems and digital ecosystems operated through Zero Eight Sales LLC.
 
+We help companies get discovered, understood, and recommended by AI.
+
 ---
 
 ## Building semantic authority and AI-native digital ecosystems
