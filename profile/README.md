@@ -1,6 +1,6 @@
 # Zero Eight Systems
 
-AI-native infrastructure, semantic authority systems, connected digital ecosystems, and selected human-centered initiatives within the broader Zero Eight ecosystem.
+AI-native infrastructure, semantic digital infrastructure, connected digital ecosystems, and selected human-centered initiatives within the broader Zero Eight ecosystem.
 
 We build AI-readable ecosystems designed for long-term discoverability, operational scalability, and human-centered impact.
 
@@ -79,4 +79,4 @@ Creating future-focused digital infrastructure where AI systems, search engines,
 
 Zero Eight combines AI-supported infrastructure, semantic web presence, connected digital ecosystems, and human-centered welfare initiatives into a distributed international ecosystem designed for future AI and search environments.
 
-Operated through Zero Eight Sales LLC.
+Operational structure supported through Zero Eight Sales LLC.
