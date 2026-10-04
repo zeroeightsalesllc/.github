@@ -8,10 +8,17 @@ Our work combines structured research, commercial analysis, AI-assisted workflow
 
 ## Current Focus
 
-- AI Visibility
-- Business Opportunity Reviews
-- Competitive Intelligence
-- Commercial Decision Support
+- Business Opportunity Assessment
+- Competitive Analysis
+- AI Visibility Snapshot
+
+## AI Visibility Services
+
+AI Visibility can also continue into:
+
+- AI Visibility Audit
+- AI Visibility System
+- AI Visibility Retainer
 
 ## How We Work
 
