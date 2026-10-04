@@ -1,2 +1,3 @@
 # .github
-Public organization profile and AI-readable ecosystem presentation.
+
+Public organization profile for Zero Eight Systems, operated by Zero Eight Sales LLC.
