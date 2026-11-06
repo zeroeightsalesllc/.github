@@ -1,10 +1,16 @@
 # Zero Eight Systems
 
-Practical B2B services in AI visibility, commercial research and decision support.
+**AI-assisted research and analysis for better business decisions.**
 
-Our work combines structured research, commercial analysis and AI-assisted workflows with human review.
+We use AI to research more information, compare different sources, and look for insights that may be easy to miss.
 
-Zero Eight Systems is operated by **Zero Eight Sales LLC**.
+Our work combines AI-assisted research with structured analysis and human review.
+
+**Human review is led by a Review Lead.**
+
+We help businesses understand their market, competitors, opportunities, and visibility in AI search.
+
+**Zero Eight Systems is operated by Zero Eight Sales LLC.**
 
 Website: https://zeroeightsystems.com
 
